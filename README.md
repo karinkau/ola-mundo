@@ -1,7 +1,8 @@
 # Olá, Mundo!
 ---
+o que é
 #### oi
-=== 
+
 
 _Primeiro repositório_ **do curso de Git e Github.**
 
@@ -10,14 +11,14 @@ Aula realizada em **19/03/2021**
 
 __Essa linha__ eu alterei diretamente no site, na rede.
 
-**_Técinicas aprendidas no curso_**
+## Técinicas aprendidas no curso
 
-* Linguagem Markdown
+- Linguagem Markdown
 - Issues
 - Pull request
 - Push
 
-**Emojis**
+**-Emojis-**
 
 _São representados entre os símbolos de : :_
 
@@ -26,9 +27,28 @@ _São representados entre os símbolos de : :_
 * Força :muscle:
 * Like :+1:
 
-1. um
-2. dois
+~~~Html
+Markdown também é uma linguagem de marcação como o Html.
+~~~
 
-1) um
-2) dois
+#### Tabela
+
+Exemplo | Valor
+:--------: | ------:
+1 | 10
+2 | 20 
+3 | 30
+
+Alt-H1
+--- indenta
+... inde
+
+eu sou uma br  
+dois espaços  
+ao final da linha.
+
++ mais
++mais
+
+
 
