@@ -15,6 +15,7 @@ __Essa linha__ eu alterei diretamente no site, na rede.
 - Pull request
 - Push
 
+---
 **Emojis**
 
 _São representados entre os símbolos de : :_
@@ -23,22 +24,21 @@ _São representados entre os símbolos de : :_
 * Atenção :eyes:
 * Força :muscle:
 * Like :+1:
+---
 
 ~~~Html
 Markdown também é uma linguagem de marcação como o Html.
 ~~~
 
-#### Tabela
+### Diferença entre M↓ e Html
 
 Markdown | Html
 :--------: | ------:
-** | <strong>
-* | <em> 
---- | <hr>
+\** | B - strong
+\* | I - enfase 
+\--- | hr
 
-Alt-H1  
---- indenta
-... inde
+
 
 
 
