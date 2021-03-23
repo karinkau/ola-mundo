@@ -33,10 +33,11 @@ Markdown também é uma linguagem de marcação como o Html.
 ### Diferença entre M↓ e Html
 
 Markdown | Html
-:--------: | ------:
-\** | B - strong
-\* | I - enfase 
+:--------: | :------:
+\** ou \__ | B - strong
+\* ou \_  | I - enfase 
 \--- | hr
+\# | h1
 
 
 
