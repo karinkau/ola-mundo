@@ -1,8 +1,5 @@
 # Olá, Mundo!
 ---
-o que é
-#### oi
-
 
 _Primeiro repositório_ **do curso de Git e Github.**
 
@@ -18,7 +15,7 @@ __Essa linha__ eu alterei diretamente no site, na rede.
 - Pull request
 - Push
 
-**-Emojis-**
+**Emojis**
 
 _São representados entre os símbolos de : :_
 
@@ -33,22 +30,17 @@ Markdown também é uma linguagem de marcação como o Html.
 
 #### Tabela
 
-Exemplo | Valor
+Markdown | Html
 :--------: | ------:
-1 | 10
-2 | 20 
-3 | 30
+** | <strong>
+* | <em> 
+--- | <hr>
 
-Alt-H1
+Alt-H1  
 --- indenta
 ... inde
 
-eu sou uma br  
-dois espaços  
-ao final da linha.
 
-+ mais
-+mais
 
 
 
