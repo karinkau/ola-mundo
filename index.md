@@ -1,11 +1,18 @@
 # Olá, Mundo
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ## Teste de criação de páginas no Github pages
 
 ~~~
 Exercício criado apenas para teste de funções.
 ~~~
-# ♀ Linguagem Markdown ♂ 
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+# <center> __♀ LINGUAGEM MARKDOWN ♂__ 
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+
 
 Estou aprendendo Linguagem **Markdown** no *Curso em Vídeo* de Git e Github em  ~~2020~~ e 2021.
 
@@ -23,17 +30,18 @@ Estou aprendendo Linguagem **Markdown** no *Curso em Vídeo* de Git e Github em 
 
 <ins> Texto Sublinhado - use a tag INS do Html. </ins>
 
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-# Linhas horizontais:  
+# __Linhas horizontais:__  
 ---
 ___
     Usando três:   ---   ou  ___   ou  ***   ou a tag HR do Html.
 ***
 <hr>
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-# LISTAS :           :warning: 
+# __LISTAS :           :warning:__ 
 
 ## ▬ Listas numeradas: 
 1. Assistir a aula
@@ -57,9 +65,9 @@ ___
 - [ ] Criar página de testes
 - [X] Finalizar README
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-# Imagens:  
+# __Imagens:__  
 
 ![200px-Markdown-mark svg](https://user-images.githubusercontent.com/75148725/112096624-69f88680-8b7d-11eb-94ee-d5e17c4b5410.png)
 
@@ -67,9 +75,9 @@ ___
 
 ![Essa é o símbolo de Markdown][link-m]    -    ![MARK][link-m]
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-# Links:  
+# __Links:__  
 
 Site de aprendizado da língua Esperanto: [Estudando Esperanto](http://estudandoesperanto.com/)
 
@@ -87,9 +95,9 @@ Site de aprendizado da língua Esperanto: [Estudando Esperanto](http://estudando
 
 [Acesse o mesmo vídeo][link-video]
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-# Tabelas:  
+# __Tabelas:__  
 
 Código | Descrição | Preço
 --- | --- | ---
@@ -104,9 +112,9 @@ Código | Descrição | Preço
 002 | Caneta | R$3,25
 003 | Lápis | R$2,40
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-# Inserindo comandos:
+# __Inserindo comandos:__
 
 Não entendo direito para que serve o comando `document.getElementByld()` da linguagem JavaScript.
 
@@ -118,9 +126,9 @@ if num % 2 == 0:
 else:
     print(f'Valor: {num} é ÍMPAR')
 ```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-# ♥  Emojis:
+# __♥  Emojis:__
 
 :+1: :100: :vulcan_salute: :abacus: :baby: :call_me_hand: :dagger: :eagle: :face_with_thermometer: 
 :game_die: :hamburger: :icecream: :jack_o_lantern: :key: :label: :mag: :national_park: :octocat: :package: :question: 
@@ -136,9 +144,9 @@ else:
 
 <https://github.com/fefong/markdown_readme/blob/master/emoji.md#kaomoji>
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-# Citações:
+# __Citações:__
 
 >Penso, logo existo. ☺
 
@@ -167,7 +175,11 @@ Muito obrigado(a) pela sua atenção!
 [link-m]: https://upload.wikimedia.org/wikipedia/commons/archive/4/48/20190322184626%21Markdown-mark.svg
 [link-video]: https://www.youtube.com/watch?v=vZaldeUg6D0
 
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+
+
+# <center> __*Karine s m Rodrigues - 21/10/2021*__
